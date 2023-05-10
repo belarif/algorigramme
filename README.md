@@ -1,1 +1,1 @@
-# algorigramme-search-recipe
+Ce répertoire contient l'algorigramme de la fonctionnalité recherche sur la barre de recherche principale du site "les petits-plats"
